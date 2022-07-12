@@ -3,7 +3,7 @@ Demo web app for gathering orders
 
 Чтобы запустить, скачайте Release.zip, распакуйте и запустите TestMVC.exe и откройте в браузере ссылку которая будет написана после Now listening on:
 ![TestMVC_fKPLjyZ2nC](https://user-images.githubusercontent.com/70528231/178579441-54d092d4-31ae-4911-8d8b-62c3b20a9bd8.png)
-
+Для запуска нужен будет MS SQL Server Express. Если это почему-то не заработает, то попробовать клонировать репозиторий через Visual Studio и запустить.
 
 ![VMDd7AF3Wq](https://user-images.githubusercontent.com/70528231/178579999-27f2f780-2d09-4bf1-9970-cf005ff8d8d0.png)
 
